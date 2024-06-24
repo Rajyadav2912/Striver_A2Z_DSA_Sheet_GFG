@@ -19,5 +19,14 @@ public class _06_LC_283_Move_Zeroes {
         for (int i = 0; i < nums.length; i++) {
             System.out.print(nums[i] + " ");
         }
+
+        // int num[] = { 0, 1 };
+
+        // if (num[1] != 0) {
+        // System.out.print("True");
+        // } else {
+        // System.out.print("False");
+        // }
+
     }
 }
